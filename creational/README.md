@@ -35,7 +35,7 @@ Each pattern is organized in its own folder and includes:
 - A clear definition
 - Problem and solution explanation
 - Simple Java example
-- (Optional) UML diagram
+- UML diagram
 
 Example:
 
