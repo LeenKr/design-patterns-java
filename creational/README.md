@@ -51,3 +51,5 @@ creational/
 The goal is not only to implement patterns,
 but to **understand when and why to use them** in real-world software design.
 
+The examples in this section are implemented in Java using simple, clear code for learning purposes.
+
