@@ -4,4 +4,3 @@ public class BankApi {
         System.out.println("Bank API transferring $" + value);
     }
 }
-s
